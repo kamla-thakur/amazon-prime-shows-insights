@@ -1,8 +1,6 @@
- # 📊 Amazon Prime Video Series Dashboard – Excel Project
+# 📊 Amazon Prime Video Series Dashboard – Excel Project
 
-![Dashboard Screenshot](screenshot/Amazon-Prime-Series-Excel.png)
-
-
+![Dashboard Screenshot](screenshot/.png)
 
 ## 📌 Project Overview
 This project is an interactive Excel dashboard that visualizes data from Amazon Prime Video. It analyzes total shows, genres, release years, countries, and content types to uncover meaningful insights about Prime Video’s content library.
@@ -61,5 +59,10 @@ This project is an interactive Excel dashboard that visualizes data from Amazon 
   - Donut and Bar Charts
   - Bing World Map Chart
   - Dark theme formatting
+
+
+
+
+
 
 
